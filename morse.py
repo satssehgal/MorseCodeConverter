@@ -1,7 +1,7 @@
 '''
 Created By: Sats Sehgal
-If you are new to python this is a great project for beginners. If you would like to see a walkthrough of the code, 
-please visit the following link: https://youtu.be/uB5LzvDCUA4
+If you are new to python this is a great project for beginners. 
+If you would like to see a video walkthrough of the code, please visit the following link: https://youtu.be/uB5LzvDCUA4
 
 '''
 
